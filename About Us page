@@ -1,0 +1,108 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	Template 2047 Brown Field
+	by www.tooplate.com 
+-->
+<title>BROOK FIELD RANCH - About</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="css/tooplate_style.css" rel="stylesheet" type="text/css" />
+	
+    <script type="text/javascript" src="js/swfobject.js"></script>
+	<script type="text/javascript">
+        var flashvars = {};
+        flashvars.xml_file = "photo_list.xml";
+        var params = {};
+        params.wmode = "transparent";
+        var attributes = {};
+        attributes.id = "slider";
+        swfobject.embedSWF("flash_slider.swf", "flash_grid_slider", "440", "220", "9.0.0", false, flashvars, params, attributes);
+    </script>
+
+</head>
+<body>
+
+<div id="tooplate_wrapper">
+
+	<div id="tooplate_header">
+        <div id="site_title">
+        	<h1><img src="../BEST RANCH PROJECT/images/logo2.PNG" width="150"/img><a href="#">BROOK FIELD RANCH</a></h1>
+        </div>
+        <div id="tooplate_menu">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html" class="current">About Us</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>    	
+        </div> <!-- end of tooplate_menu -->
+    </div> <!-- end of forever header -->
+    
+    <div id="tooplate_middle">
+    	<div id="mid_slider">
+        	<div id="flash_grid_slider">
+                <a rel="nofollow" href="http://www.adobe.com/go/getflashplayer">
+                    <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+                </a>
+			</div>
+        </div>
+        <div id="mid_left">
+            <div id="mid_title">
+                About Our Ranch	
+            </div>
+            <p>In the Year 1992, Captain Brook bought a creek-fed oasis in the Chalbi Desert of Nothern Kenya, sparking generations of integrity, preservation, and innovation called Brook Ranch.
+The Ranch now covers 825,000 acres in the County of Machakos. 
+ </p>
+            <div id="learn_more"><a href="#">Learn More</a></div>
+	  	</div>
+        <div class="cleaner"></div>
+	</div> <!-- end of middle -->
+    
+    <div id="tooplate_main_top"></div>
+    <div id="tooplate_main">
+    	
+        <div class="col_w580 float_l">
+        	
+            <h2>Who We Are</h2>
+       
+        <p><em>Over the course of 150 years, Brook Ranch has led some of the first cattle drives, developed the Santa Gertrudis and Santa Cruz breeds of cattle, bred the finest quarter horses, and produced champion thoroughbreds all under its iconic Running brand. Today Brook Ranch has diversified into a major agribusiness with interests in cattle ranching and feedlot operations, farming (apples, grapes, grain, sugar cane, and turfgrass), commodity marketing and processing, luxury retail goods, and recreational hunting and horse riding.
+Moreover, we have a wine manufacturing division that majors on production of our amazing wines from the fruits produced from our farm; the grapes, apples and so on.
+Occasionally we offer wine tasting annually to our esteemed customers and if you're a consistent and frequent customers, there are prizes for you to take home!
+Brook Ranch continues to foster a culture of uncompromising quality, stewardship, and authenticity, a true testament to Captain Kingâ€™s commitment and integrity..<br>
+        <em> Spend a day with us and you'll never forget the experience!! </p>
+            <div class="h30"></div>
+            <div class="image_wrapper image_fl"><img src="images/karon-cafe-steakhouse.jpg" alt="Image 02" width="350" /></div>
+            <h5>The Steakhouse</h5>
+            <p>Delicious dishes and buffets...
+Settle in and relive Brook's Storied career with the finest wines and hand-crafted cocktails. Brook's Bar serves the daily lunch crowd and is the perfect meet up for after work drinks or while you make your way down the Magnificent Mile shops. Stop in and let us pour you a glass today.
+Perfectly aged steaks. One of the largest wine collections in the world. An internationally famous dessert room. Wine cellar and kitchen tours available for all guests. These elements have combined since 1956 to provide our guests with a unique culinary experience. Our prime steaks are cut to order, vegetables are grown locally on the Brook's farm and sourced from the finest purveyors, and our menu includes 21 choices of caviar. Each visit to Brook's Steak House takes you on a gastronomic adventure that defines Brook's not as a meal but as an experience. We invite you to join us and experience Brook's. </p>
+            
+        </div>
+        <div class="col_w280 float_r">
+        
+            <h2>Testimonial</h2>
+            <blockquote>
+            <p>Fusce nec felis id lacus sollicitudin vulputate. Proin tincidunt, arcu id pellentesque accumsan, neque dolor imperdiet ligula, quis viverra tellus nulla a odio. Curabitur vitae enim risus, at placerat turpis.</p>
+            
+            <cite><a href="#">Kate</a> - <span>Marketing Specialist</span></cite>
+            </blockquote>
+        
+        </div>    	
+
+    	<div class="cleaner"></div>
+    </div> <!-- end of main -->
+    <div id="tooplate_main_bottom"></div>
+
+</div> <!-- wrapper -->
+
+<div id="tooplate_footer_wrapper">
+	<div id="tooplate_footer">
+        Copyright © 2016 <a href="#">Brook Ranch</a> 
+        | Design: <a href="http://www.tooplate.com">Tigandrew designers</a>
+	</div>
+</div>
+
+</body>
+</html>
